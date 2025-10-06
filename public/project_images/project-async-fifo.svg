@@ -1,0 +1,9 @@
+<svg width="500" height="320" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder image for Asynchronous FIFO UVM Verification project">
+  <rect width="100%" height="100%" fill="#1e293b"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" fill="#94a3b8" font-weight="600">
+    Asynchronous FIFO
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#64748b">
+    CDC Verification
+  </text>
+</svg>

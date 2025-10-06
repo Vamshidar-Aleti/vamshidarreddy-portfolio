@@ -1,0 +1,9 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" aria-label="Professional portrait placeholder">
+  <rect width="100%" height="100%" fill="#1e293b" />
+  <g fill="#475569">
+    <!-- Head -->
+    <circle cx="250" cy="190" r="90" />
+    <!-- Body -->
+    <path d="M160 380 C160 280, 340 280, 340 380 L340 450 L160 450 Z" />
+  </g>
+</svg>
