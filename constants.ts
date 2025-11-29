@@ -75,8 +75,8 @@ export const PROJECTS: Project[] = [
     repoUrl: 'https://github.com/Vamshidar-Aleti/Sync-FIFO-UVM_TB',
   },
   {
-    title: 'APB Protocol Verification IP',
-    description: 'Created a reusable APB (Advanced Peripheral Bus) Verification IP (VIP). The VIP includes a master agent, slave agent, and monitor for plug-and-play verification of APB-based systems.',
+    title: 'APB Protocol Verification',
+    description: 'Created a reusable APB (Advanced Peripheral Bus) Verification. The testbench includes a master agent, slave agent, and monitor for plug-and-play verification of APB-based systems.',
     tags: ['SystemVerilog', 'APB Protocol', 'UVM', 'VIP', 'QuestaSim'],
     imageUrl: '/project_images/apb_image.png',
     repoUrl: 'https://github.com/Vamshidar-Aleti/APB-Protocol-VIP',
